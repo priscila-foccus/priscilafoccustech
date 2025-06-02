@@ -33,6 +33,6 @@ Atualmente estou focada em construir projetos que unem bots, redes neurais e sol
 ---
 
 📬 **Contato**  
-✉️ priscila@foccustech.com.br  
+✉️ priscila.foccustech@gmail.com 
 🌐 [foccustech.com.br](https://foccustech.com.br) *Em construção*  
 🔗 [LinkedIn](https://www.linkedin.com/in/priscila-alves-andr%C3%A9-vieira-9ba8a2221/)
